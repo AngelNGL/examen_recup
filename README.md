@@ -18,4 +18,4 @@ Se utilizaron 3 casos de ejemplo:
 
 ## Instrucciones para ejecutar el proyecto
 Ejecutar `sistema.py`
-O en terminal correr: `python sistema.py`
+o en terminal correr: `python sistema.py`.
